@@ -437,7 +437,7 @@ body, html {
 .github-section {
     margin-top: auto;
     padding-top: 25px;
-    margin-bottom: 100px;
+    margin-bottom: 20px;
     border-top: 2px solid rgba(255, 255, 255, 0.1);
     background: transparent;
 }
@@ -527,6 +527,10 @@ body, html {
     .current-year {
         font-size: 1.5em;
         padding: 12px;
+    }
+
+    .github-section {
+    margin-bottom: 100px;
     }
 }
 
